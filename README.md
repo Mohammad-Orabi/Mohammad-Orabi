@@ -4,7 +4,7 @@
 
 ---
 
-### ⭐ Client Reviews at a Glance
+### 🎙️ Let the Work Talk
 > ⭐ **“Mohammad is an all-star developer. He understands both the business needs and the technical scope.”**  
 > 💲 *$12,000 project: Fullstack Developer (React/Node)*
 
